@@ -1,0 +1,30 @@
+PODS:
+  - HWPanModal (0.8.3)
+  - Masonry (1.1.0)
+  - ReactiveObjC (3.1.1)
+  - YYCategories (1.0.4):
+    - YYCategories/no-arc (= 1.0.4)
+  - YYCategories/no-arc (1.0.4)
+
+DEPENDENCIES:
+  - HWPanModal (~> 0.8.3)
+  - Masonry (~> 1.1.0)
+  - ReactiveObjC (~> 3.1.1)
+  - YYCategories (~> 1.0.4)
+
+SPEC REPOS:
+  trunk:
+    - HWPanModal
+    - Masonry
+    - ReactiveObjC
+    - YYCategories
+
+SPEC CHECKSUMS:
+  HWPanModal: 3dda514178d4320a475451fad9ac941a0e0ae777
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+  YYCategories: 6bcd4314c6661a561410dce4a793379ebd306abd
+
+PODFILE CHECKSUM: 9a43ee1e39790f965363d0537be58360c06fdc7f
+
+COCOAPODS: 1.10.1
